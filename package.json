@@ -1,0 +1,15 @@
+{
+  "name": "cours",
+  "version": "1.0.0",
+  "description": "New front-end for the Courier based on the WordPress REST API",
+  "repository": "https://github.com/dyllisphiller/cours/",
+  "license": "UNLICENSED",
+  "private": true,
+  "devDependencies": {
+    "webpack": "^4.8.1",
+    "webpack-cli": "^2.1.3"
+  },
+  "dependencies": {
+    "wpcom": "^5.4.1"
+  }
+}
